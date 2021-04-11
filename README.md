@@ -1,4 +1,4 @@
-##Barbearia Alura
+## Barbearia Alura
 
 Site criado no curso de introdução HLML5 CSS3
 no curso da Alura.
